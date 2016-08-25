@@ -6,9 +6,9 @@ color:
   saturation: 0.7757448651827872
   rhythmicContrast: 0.7175036964472383
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: poetic vertigo
